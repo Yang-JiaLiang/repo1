@@ -15,11 +15,8 @@ public class 一生能过闰年 {
             if((i%4==0&&i%100!=0)||(i%400==0))
              count++;
         }
-
         System.out.println(count);
 
         }
-
-
 }
 
